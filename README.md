@@ -19,6 +19,17 @@ Github Explorer
 </p>
 
 <hr />
+<img src="src/assets/readme_images/github_app_1.png" alt="Github Explorer"
+style='display: block;
+margin-left: auto;
+margin-right: auto;
+width: 90%;'/>
+<br>
+  <img src="src/assets/readme_images/github_app_2.png" alt="Github Explorer"
+  style='display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;'/>
 
 ## Features
 
