@@ -41,9 +41,6 @@ This app features all the latest tools and practices in web development!
 - **Axios** — A library to make HTTP requests
 
 ## Getting started
-
-_Before you run this application you need to make sure the [server](https://github.com/jpedroschmitz/gobarber-api) is running!_.
-
 1. Clone this repo using `https://github.com/pjavier98/github_explorer.git`
 2. Move to the appropriate directory: `cd github_explorer`.<br />
 3. Run `yarn` to install dependencies.<br />
