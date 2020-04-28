@@ -1,8 +1,7 @@
 <h1 align="center">
 <br>
-  <img src="src/assets/github-background.svg" alt="Github Explorer" width="150"
-  style= 'background-color: #e8e8e8; border-radius: 50%'/>
-<br>
+  <img src="src/assets/readme_images/github.png" alt="Github Explorer" width="150"
+  style= 'border-radius: 50%'/>
 <br>
 Github Explorer
 </h1>
@@ -10,9 +9,18 @@ Github Explorer
 <p align="center">An application to view Github repositories and their starts, forks and issues</p>
 
 <p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/pjavier98/github-explorer">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/pjavier98/github-explorer">
+
+  <a href="https://github.com/pjavier98/github-explorer/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pjavier98/github-explorer">
+  </a>
+
   <a href="http://makeapullrequest.com">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
   </a>
+
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License MIT">
   </a>
@@ -30,6 +38,9 @@ width: 90%;'/>
   margin-left: auto;
   margin-right: auto;
   width: 90%;'/>
+
+## Description
+Github explorer is an application to view **repositories** and their **stars**, **forks** and **open tasks**.
 
 ## Features
 
